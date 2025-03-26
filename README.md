@@ -26,3 +26,9 @@ A genetic algorithm is an AI-based optimization technique inspired by natural se
 - **Mutation:** Introduces diversity by swapping operations within a chromosome.
 - **Objective Function:** Evaluates the efficiency of a generated schedule and aims to minimize total completion time.
 
+##  Contributing
+We welcome contributions! If you find an issue or want to enhance the project, feel free to Submit a pull request
+
+##  Contact
+For any inquiries, feel free to reach out:
+- **Email:**(mailto:dana.gassad03@gmail.com)
